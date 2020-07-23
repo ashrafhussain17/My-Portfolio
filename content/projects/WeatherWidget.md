@@ -1,8 +1,8 @@
 ---
-date: '2016-11-16'
-title: 'Weather Widget'
-github: 'https://github.com/bchiang7/DemoWebApp'
-external: 'http://quiet-dusk-89245.herokuapp.com/'
+date: '2019-11-16'
+title: 'Weather Website'
+github: 'https://github.com/ashrafhussain17/NodeJS-Weather' 
+external: 'https://ashrafs-weather.herokuapp.com/'
 tech:
   - Node
   - Express
@@ -10,4 +10,4 @@ tech:
 showInProjects: false
 ---
 
-Simple weather app made with Node.js, Express, and Heroku. Utilized the OpenWeatherMap API and Google Maps API.
+Simple weather app made with Node.js, Express, and Heroku. Utilized the Mapbox Api for location.

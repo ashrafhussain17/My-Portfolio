@@ -1,14 +1,15 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+date: '2019-12-12'
+title: 'Personal Blog'
+github: 'https://github.com/ashrafhussain17/PersonalBlog'
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - Node.js
+  - Express
+  - MongoDB
+  - React
+  - Redis
+  - Jest
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+Basically, it's a blog website where anyone can create blogs. For making blogs anyone has to be signed in. Google OAuth is used for authentication. I also used redis for increasing performance.
