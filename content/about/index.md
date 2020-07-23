@@ -3,11 +3,15 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
   - Node.js
-  - WordPress
+  - Typescript
+  - Python
+  - React
+  - Postgresql
+  - Oracle Sql
+  - Microservices
+  - Docker
+  - Kubernetes
 ---
 
 Hello! I'm Brittany, a software engineer based in Boston, MA.
