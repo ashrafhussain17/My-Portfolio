@@ -1,15 +1,13 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+date: '2020-04-10'
+title: 'Github Finder'
+github: 'https://github.com/ashrafhussain17/GithubFinder'
 external: ''
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
+  - Typescript
+  - React
+  - Github Api
 showInProjects: false
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+Web application built on Typescript and React along with Github Api. Anyone can find any profile of github by profile name. After submitting profile name it shows all the projects and commits that are done by the owner of the profile.

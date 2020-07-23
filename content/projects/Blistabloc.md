@@ -1,14 +1,11 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+date: '2020-03-07'
+title: 'Burger Builder'
+github: 'https://github.com/ashrafhussain17/Burger_Builder'
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - React
+  - CSS
 showInProjects: false
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+It's a fully react application where user can make a burger by adding ingredients. After making the burger they can order this burger.
