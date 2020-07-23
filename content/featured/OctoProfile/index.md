@@ -1,13 +1,13 @@
 ---
-date: '3'
-title: 'OctoProfile'
+date: '2' 
+title: 'Haatprotidin'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/ashrafhussain17/HaatProtidinNew'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - PHP
+  - Java
+  - MySQL
+  - Android Studio
 showInProjects: true
 ---
 

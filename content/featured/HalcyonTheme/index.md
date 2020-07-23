@@ -1,16 +1,15 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
+date: '3'
+title: 'DUCSU'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/ashrafhussain17/Platform_for_DUCSU'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Node.js
+  - React
+  - MongoDB
+  - Express
+  - Javascript(ES6+)
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A platform for DUCSU(Dhaka University Central Students Union) where every students of University of Dhaka can create an account and post their problems like a complain to this Union. Then the leaders of DUCSU can comments, asked anything for solving this problem. The students can upload photos also. It's like a social media platform for complaining to DUCSU.
