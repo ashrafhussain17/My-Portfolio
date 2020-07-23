@@ -12,12 +12,16 @@ skills:
   - Microservices
   - Docker
   - Kubernetes
+  - CI CD pipeline
+  - Machine Learning
+  - Data mining
+  - Web Scraping and Crawling
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Ashraf, a full stack software engineer currently living in Dhaka, Bangladesh.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly I am a final year student of [University of Dhaka](http://www.cse.du.ac.bd/), Currently I am doing my thesis on Data mining in addition I am also doing some projects and contributing some open source projects.
 
 Here are a few technologies I've been working with recently:
