@@ -103,7 +103,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://brittanychiang.com/"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Credit goes to Brittany Chiang</div>

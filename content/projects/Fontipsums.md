@@ -1,12 +1,15 @@
 ---
-date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+date: '2020-02-01'
+title: 'Payment System'
+github: 'https://github.com/ashrafhussain17/Payment'
+external: ''
 tech:
+  - Node.js
+  - Stripe
+  - Express
   - HTML
-  - SCSS
+  - CSS
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+It's a payment system which is done by using stripe. Server is done by nodejs and designed by html and css.
