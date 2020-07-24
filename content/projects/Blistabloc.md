@@ -5,7 +5,7 @@ github: 'https://github.com/ashrafhussain17/Burger_Builder'
 tech:
   - React
   - CSS
-showInProjects: false
+showInProjects: true
 ---
 
 It's a fully react application where user can make a burger by adding ingredients. After making the burger they can order this burger.

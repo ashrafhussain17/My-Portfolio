@@ -1,14 +1,15 @@
 ---
-date: '2018-12-01'
-title: 'Devoted Health'
-github: ''
-external: 'https://www.devoted.com/'
+date: '2020-09-02'
+title: 'Ticket Seller'
+github: 'https://github.com/ashrafhussain17/sell-ticket'
+external: ''
 tech:
-  - Gatsby
+  - Microservice
   - TypeScript
-  - Algolia
-company: 'Upstatement'
-showInProjects: false
+  - Docker
+  - Kubernetes
+  - Next.js
+showInProjects: true
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+A site for a selling tickets, using Microservice architecture. Every service is independent and if any service is down, other service also works correctly,

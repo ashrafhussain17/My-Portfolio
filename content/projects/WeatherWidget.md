@@ -7,7 +7,7 @@ tech:
   - Node
   - Express
   - EJS
-showInProjects: false
+showInProjects: true
 ---
 
 Simple weather app made with Node.js, Express, and Heroku. Utilized the Mapbox Api for location.

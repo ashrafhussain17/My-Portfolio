@@ -8,7 +8,7 @@ tech:
   - MongoDB
   - Express
   - Google OAuth
-showInProjects: true
+showInProjects: false
 ---
 
 A simple authentication system using Google OAuth. Also used mongodb for storing the user data.
