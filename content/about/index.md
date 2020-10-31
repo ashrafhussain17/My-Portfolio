@@ -6,6 +6,7 @@ skills:
   - Node.js
   - Typescript
   - Python
+  - Golang(GO)
   - React
   - Postgresql
   - Oracle Sql
@@ -15,7 +16,6 @@ skills:
   - CI CD pipeline
   - Machine Learning
   - Data mining
-  - Web Scraping and Crawling
 ---
 
 Hello! I'm Ashraf, a full stack software engineer currently living in Dhaka, Bangladesh.
