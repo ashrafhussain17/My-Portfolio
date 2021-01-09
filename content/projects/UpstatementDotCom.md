@@ -1,12 +1,12 @@
 ---
 date: '2019-11-25'
-title: 'Upstatement.com'
-github: ''
-external: 'https://www.upstatement.com/'
+title: 'Photo/Gif Sharing Website'
+github: 'https://github.com/ashrafhussain17/MemeVerse'
+external: ''
 tech:
-  - Nuxt
-  - Vue
-  - Prismic
-company: 'Upstatement'
-showInProjects: false
+  - NodeJs
+  - Express
+  - React
+  - MongoDB
+showInProjects: true
 ---
