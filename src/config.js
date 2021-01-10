@@ -4,7 +4,7 @@ module.exports = {
     'Md Ashraf Hussain is a full stack software engineer based in Dhaka, Bangladesh who specializes in building exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Ashraf Hussain, Ashraf, Hussain, ashrafhussain17, software engineer, back-end engineer, web developer, javascript, typescript',
-  siteUrl: 'ashrafhussain.me',
+  siteUrl: 'http://ashrafhussain.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
